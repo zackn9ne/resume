@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-<title>Hello Strapdown</title>
-
-<xmp theme="united" style="display:none;">
-# Markdown text goes in here
-
+# ZACK LEVINE
+### www.zlevine.com
 ## Chapter 1
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
