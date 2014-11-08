@@ -34,4 +34,4 @@ BA Industrial Arts San Francisco State University
 GA General Assembly Web Development Immersive
 
 ### SOFTWARE/LANG
-Git, GitHub, CLI, Ruby, Rails, Heroku, WordPress, Joomla, Foundation, Bootstrap, PSQL, MySQL, Amazon EC2, Ubuntu, SSH, Linux, HTML5 & CSS3, jQuery, jQueryUI, Underscore, Backbone, Custom WordPress development, PSD & AI Slicing, SASS, SCSS, erb. Bower, Grunt.js, Yeoman, Gulp.js, Node.js, MailChimp, Responsive Design, API's, & JSON
+Git, GitHub, CLI, Ruby, Rails, Heroku, WordPress, Joomla, Foundation, Bootstrap, PSQL, MySQL, Amazon EC2, Ubuntu, SSH, Linux, HTML5 & CSS3, jQueryUI, Underscore, Backbone, Custom WordPress development, PSD & AI Slicing, SASS, SCSS, erb. Bower,  Yeoman, Gulp.js, Node.js basics, MailChimp, Responsive Design, API's, & JSON
