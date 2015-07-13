@@ -8,6 +8,18 @@
 
 ### EXPERIENCE 
 
+### June 2015- PRESENT Freelance
+* Magness Design high end interior designer featuring WordPress Theme Development
+
+### Mar 2015- PRESENT Freelance
+* film-forward film blog with over 300 posts featuring WordPress Theme Development
+
+### JAN 2015- PRESENT Freelance
+* littleorchestra.org Web development using Drupal/SSL/NGINX
+
+### Mar 2015- Jun 2015
+* MacaulayNow eBlast WebApp using NodeJS ExpressJS Heroku MailchimpAPI
+
 ### MAR 2010- PRESENT Freelance
 * Coreythedribbler.com Web development using Gulp, NodeJS, Bootstrap, SASS and Yeoman
 
