@@ -3,7 +3,7 @@
 ### WEB DEVELOPER
 
 * www.zacklevine.name
-* zjl@fastmail.fm
+* zackn9ne@gmail.com
 * www.github.com/zackn9ne
 
 ### EXPERIENCE 
