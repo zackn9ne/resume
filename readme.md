@@ -9,7 +9,7 @@
 ### EXPERIENCE 
 
 ### June 2015- PRESENT Freelance
-* Magness Design high end interior designer featuring WordPress Theme Development
+* Magness Design high end interior designer featuring NodeJS Grunt Mongo Sass Bootstrap ExpressJS Development
 
 ### Mar 2015- PRESENT Freelance
 * film-forward film blog with over 300 posts featuring WordPress Theme Development
